@@ -116,59 +116,44 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 
 <table>
   <tr>
-    <td align="center" style="border: 1px solid #ccc; padding: 10px; width: 140px;">
-      <img src="https://github.com/byungjjun.png" width="120" height="120"><br>
-      <div style="margin: 5px 0; font-weight: bold;">PM</div>
-      <div style="border-top: 2px solid #ccc; width: 60%; margin: 4px auto;"></div>
+    <td align="center">
+      <img src="https://github.com/byungjjun.png" width="120px"><br>
+      <b>PM</b><br>
       <a href="https://github.com/byungjjun">박병준</a>
     </td>
-    
-    <td align="center" style="border: 1px solid #ccc; padding: 10px; width: 140px;">
-      <img src="https://github.com/seopgyu.png" width="120" height="120"><br>
-      <div style="margin: 5px 0; font-weight: bold;">PM</div>
-      <div style="border-top: 2px solid #ccc; width: 60%; margin: 4px auto;"></div>
+    <td align="center">
+      <img src="https://github.com/seopgyu.png" width="120px"><br>
+      <b>PM</b><br>
       <a href="https://github.com/seopgyu">김규섭</a>
     </td>
-
-    <td align="center" style="border: 1px solid #ccc; padding: 10px; width: 140px;">
-      <img src="https://github.com/mr6208.png" width="120" height="120"><br>
-      <div style="margin: 5px 0; font-weight: bold;">BackEnd</div>
-      <div style="border-top: 2px solid #ccc; width: 60%; margin: 4px auto;"></div>
+    <td align="center">
+      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <b>BackEnd</b><br>
       <a href="https://github.com/mr6208">정우혁</a>
     </td>
-
-    <td align="center" style="border: 1px solid #ccc; padding: 10px; width: 140px;">
-      <img src="https://github.com/Chuseok22.png" width="120" height="120"><br>
-      <div style="margin: 5px 0; font-weight: bold;">BackEnd</div>
-      <div style="border-top: 2px solid #ccc; width: 60%; margin: 4px auto;"></div>
+    <td align="center">
+      <img src="https://github.com/Chuseok22.png" width="120px"><br>
+      <b>BackEnd</b><br>
       <a href="https://github.com/Chuseok22">백지훈</a>
     </td>
-
-    <td align="center" style="border: 1px solid #ccc; padding: 10px; width: 140px;">
-      <img src="https://github.com/Yooonjeong.png" width="120" height="120"><br>
-      <div style="margin: 5px 0; font-weight: bold;">BackEnd</div>
-      <div style="border-top: 2px solid #ccc; width: 60%; margin: 4px auto;"></div>
+    <td align="center">
+      <img src="https://github.com/Yooonjeong.png" width="120px"><br>
+      <b>BackEnd</b><br>
       <a href="https://github.com/Yooonjeong">장윤정</a>
     </td>
-
-    <td align="center" style="border: 1px solid #ccc; padding: 10px; width: 140px;">
-      <img src="https://github.com/imironjin.png" width="120" height="120"><br>
-      <div style="margin: 5px 0; font-weight: bold;">FrontEnd</div>
-      <div style="border-top: 2px solid #ccc; width: 60%; margin: 4px auto;"></div>
+    <td align="center">
+      <img src="https://github.com/imironjin.png" width="120px"><br>
+      <b>FrontEnd</b><br>
       <a href="https://github.com/imironjin">임철진</a>
     </td>
-
-    <td align="center" style="border: 1px solid #ccc; padding: 10px; width: 140px;">
-      <img src="https://github.com/heesu52.png" width="120" height="120"><br>
-      <div style="margin: 5px 0; font-weight: bold;">FrontEnd</div>
-      <div style="border-top: 2px solid #ccc; width: 60%; margin: 4px auto;"></div>
+    <td align="center">
+      <img src="https://github.com/heesu52.png" width="120px"><br>
+      <b>FrontEnd</b><br>
       <a href="https://github.com/heesu52">장희수</a>
     </td>
-
-    <td align="center" style="border: 1px solid #ccc; padding: 10px; width: 140px;">
-      <img src="https://github.com/76Dosu.png" width="120" height="120"><br>
-      <div style="margin: 5px 0; font-weight: bold;">Design</div>
-      <div style="border-top: 2px solid #ccc; width: 60%; margin: 4px auto;"></div>
+    <td align="center">
+      <img src="https://github.com/76Dosu.png" width="120px"><br>
+      <b>Design</b><br>
       <a href="https://github.com/76Dosu">김희찬</a>
     </td>
   </tr>
