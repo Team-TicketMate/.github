@@ -143,17 +143,17 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
     </td>
     <td align="center">
       <img src="https://github.com/imironjin.png" width="120px"><br>
-      <b>BackEnd</b><br>
+      <b>FrontEnd</b><br>
       <a href="https://github.com/imironjin">임철진</a>
     </td>
     <td align="center">
       <img src="https://github.com/heesu52.png" width="120px"><br>
-      <b>BackEnd</b><br>
+      <b>FrontEnd</b><br>
       <a href="https://github.com/heesu52">장희수</a>
     </td>
     <td align="center">
       <img src="https://github.com/76Dosu.png" width="120px"><br>
-      <b>BackEnd</b><br>
+      <b>Design</b><br>
       <a href="https://github.com/76Dosu">김희찬</a>
     </td>
   </tr>
