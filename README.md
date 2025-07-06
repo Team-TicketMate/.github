@@ -114,6 +114,8 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 
 ## 👥 팀원 소개
 
+| <img src="https://github.com/byungjjun.png" width="100px"> | PM | [박병준](https://github.com/byungjjun) |
+
 <br>
 
 
