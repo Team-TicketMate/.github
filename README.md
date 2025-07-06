@@ -118,18 +118,38 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
   <tr>
     <td align="center">
       <img src="https://github.com/byungjjun.png" width="120px"><br>
-      <b>Back-End</b><br>
+      <b>PM</b><br>
       <a href="https://github.com/byungjjun">박병준</a>
     </td>
     <td align="center">
-      <img src="https://github.com/leefront.png" width="120px"><br>
-      <b>Front-End</b><br>
-      <a href="https://github.com/leefront">김규섭</a>
+      <img src="https://github.com/seopgyu.png" width="120px"><br>
+      <b>PM</b><br>
+      <a href="https://github.com/seopgyu">김규섭</a>
     </td>
     <td align="center">
-      <img src="https://github.com/parkdesign.png" width="120px"><br>
-      <b>Designer</b><br>
-      <a href="https://github.com/parkdesign">정우혁</a>
+      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <b>BackEnd</b><br>
+      <a href="https://github.com/mr6208">정우혁</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <b>BackEnd</b><br>
+      <a href="https://github.com/mr6208">정우혁</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <b>BackEnd</b><br>
+      <a href="https://github.com/mr6208">정우혁</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <b>BackEnd</b><br>
+      <a href="https://github.com/mr6208">정우혁</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <b>BackEnd</b><br>
+      <a href="https://github.com/mr6208">정우혁</a>
     </td>
   </tr>
 </table>
