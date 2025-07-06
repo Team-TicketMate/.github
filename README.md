@@ -117,47 +117,32 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/byungjjun.png" width="120px"><br>
-      <b>PM</b><br>
-      <a href="https://github.com/byungjjun">정우혁</a>
+      <img src="https://github.com/byungjjun.png" width="120px"><p><b>PM</b></p><p><a href="https://github.com/byungjjun">박병준</a></p>
     </td>
     <td align="center">
-      <img src="https://github.com/seopgyu.png" width="120px"><br>
-      <b>PM</b><br>
-      <a href="https://github.com/seopgyu">김규섭</a>
+      <img src="https://github.com/seopgyu.png" width="120px"><p><b>PM</b></p><p><a href="https://github.com/seopgyu">김규섭</a></p>
     </td>
     <td align="center">
-      <img src="https://github.com/mr6208.png" width="120px"><br>
-      <b>BackEnd</b><br>
-      <a href="https://github.com/mr6208">정우혁</a>
+      <img src="https://github.com/mr6208.png" width="120px"><p><b>BackEnd</b></p><p><a href="https://github.com/mr6208">정우혁</a></p>
     </td>
     <td align="center">
-      <img src="https://github.com/Chuseok22.png" width="120px"><br>
-      <b>BackEnd</b><br>
-      <a href="https://github.com/Chuseok22">백지훈</a>
+      <img src="https://github.com/Chuseok22.png" width="120px"><p><b>BackEnd</b></p><p><a href="https://github.com/Chuseok22">백지훈</a></p>
     </td>
     <td align="center">
-      <img src="https://github.com/Yooonjeong.png" width="120px"><br>
-      <b>BackEnd</b><br>
-      <a href="https://github.com/Yooonjeong">장윤정</a>
+      <img src="https://github.com/Yooonjeong.png" width="120px"><p><b>BackEnd</b></p><p><a href="https://github.com/Yooonjeong">장윤정</a></p>
     </td>
     <td align="center">
-      <img src="https://github.com/imironjin.png" width="120px"><br>
-      <b>FrontEnd</b><br>
-      <a href="https://github.com/imironjin">임철진</a>
+      <img src="https://github.com/imironjin.png" width="120px"><p><b>FrontEnd</b></p><p><a href="https://github.com/imironjin">임철진</a></p>
     </td>
     <td align="center">
-      <img src="https://github.com/heesu52.png" width="120px"><br>
-      <b>FrontEnd</b><br>
-      <a href="https://github.com/heesu52">장희수</a>
+      <img src="https://github.com/heesu52.png" width="120px"><p><b>FrontEnd</b></p><p><a href="https://github.com/heesu52">장희수</a></p>
     </td>
     <td align="center">
-      <img src="https://github.com/76Dosu.png" width="120px"><br>
-      <b>Design</b><br>
-      <a href="https://github.com/76Dosu">김희찬</a>
+      <img src="https://github.com/76Dosu.png" width="120px"><p><b>Design</b></p><p><a href="https://github.com/76Dosu">김희찬</a></p>
     </td>
   </tr>
 </table>
+
 
 <br>
 
