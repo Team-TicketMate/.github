@@ -119,7 +119,7 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
     <td align="center">
       <img src="https://github.com/byungjjun.png" width="120px"><br>
       <b>PM</b><br>
-      <a href="https://github.com/byungjjun">박병준</a>
+      <a href="https://github.com/byungjjun">정우혁</a>
     </td>
     <td align="center">
       <img src="https://github.com/seopgyu.png" width="120px"><br>
