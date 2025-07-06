@@ -119,49 +119,41 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
     <td align="center" style="padding: 16px;">
       <img src="https://github.com/byungjjun.png" width="100" height="100" style="object-fit: cover; border-radius: 8px;"><br>
       <div style="margin-top: 8px;"><b>PM</b></div>
-      <hr width="50%">
       <div><a href="https://github.com/byungjjun">박병준</a></div>
     </td>
     <td align="center" style="padding: 16px;">
       <img src="https://github.com/seopgyu.png" width="100" height="100" style="object-fit: cover; border-radius: 8px;"><br>
       <div style="margin-top: 8px;"><b>PM</b></div>
-      <hr width="50%">
       <div><a href="https://github.com/seopgyu">김규섭</a></div>
     </td>
     <td align="center" style="padding: 16px;">
       <img src="https://github.com/mr6208.png" width="100" height="100" style="object-fit: cover; border-radius: 8px;"><br>
       <div style="margin-top: 8px;"><b>BackEnd</b></div>
-      <hr width="50%">
       <div><a href="https://github.com/mr6208">정우혁</a></div>
     </td>
     <td align="center" style="padding: 16px;">
       <img src="https://github.com/Chuseok22.png" width="100" height="100" style="object-fit: cover; border-radius: 8px;"><br>
       <div style="margin-top: 8px;"><b>BackEnd</b></div>
-      <hr width="50%">
       <div><a href="https://github.com/Chuseok22">백지훈</a></div>
     </td>
     <td align="center" style="padding: 16px;">
       <img src="https://github.com/Yooonjeong.png" width="100" height="100" style="object-fit: cover; border-radius: 8px;"><br>
       <div style="margin-top: 8px;"><b>BackEnd</b></div>
-      <hr width="50%">
       <div><a href="https://github.com/Yooonjeong">장윤정</a></div>
     </td>
     <td align="center" style="padding: 16px;">
       <img src="https://github.com/imironjin.png" width="100" height="100" style="object-fit: cover; border-radius: 8px;"><br>
       <div style="margin-top: 8px;"><b>FrontEnd</b></div>
-      <hr width="50%">
       <div><a href="https://github.com/imironjin">임철진</a></div>
     </td>
     <td align="center" style="padding: 16px;">
       <img src="https://github.com/heesu52.png" width="100" height="100" style="object-fit: cover; border-radius: 8px;"><br>
       <div style="margin-top: 8px;"><b>FrontEnd</b></div>
-      <hr width="50%">
       <div><a href="https://github.com/heesu52">장희수</a></div>
     </td>
     <td align="center" style="padding: 16px;">
       <img src="https://github.com/76Dosu.png" width="100" height="100" style="object-fit: cover; border-radius: 8px;"><br>
       <div style="margin-top: 8px;"><b>Design</b></div>
-      <hr width="50%">
       <div><a href="https://github.com/76Dosu">김희찬</a></div>
     </td>
   </tr>
