@@ -1,4 +1,4 @@
-# 🎟️ TicketMate  
+# 🎟️ TicketMate
 
 <br>
 
@@ -30,19 +30,20 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
   대리인이 수락하면 바로 채팅이 열려, 공연 정보나 요청 내용을 자유롭게 소통할 수 있습니다.
 
 - ✅ **진행 완료 후 별점 평가**  
-  티켓팅이 끝나면 대리인에게 별점을 남겨 다음 사용자에게도 도움이 되는 피드백을 제공합니다.  
+  티켓팅이 끝나면 대리인에게 별점을 남겨 다음 사용자에게도 도움이 되는 피드백을 제공합니다.
 
 <br>
 
 ## 🛣️ 로드맵 (Roadmap)
 
-업데이트 예정 🚧  
+업데이트 예정 🚧
 
 <br>
 
 ## 🛠 기술 스택
 
 ### 🎯 Backend Stack
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
@@ -81,6 +82,7 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 ---
 
 ### 💻 Frontend Stack
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -96,19 +98,21 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 ---
 
 ### 🎨 Design Tools
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ### 🧑‍🤝‍🧑 Collaboration Tools
+
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 <br>
 
 ## 🏗 Architecture
 
-![Architecture Diagram](./architecture.png)  
+![Architecture Diagram](./architecture.png)
 
 <br>
 
@@ -117,42 +121,42 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/byungjjun.png" width="120px"><br>
+      <img src="https://github.com/byungjjun.png" style="width: 100px; height: 100px;"><br>
       <b>PM</b><br>
       <a href="https://github.com/byungjjun">박병준</a>
     </td>
     <td align="center">
-      <img src="https://github.com/seopgyu.png" width="120px"><br>
+      <img src="https://github.com/seopgyu.png" style="width: 100px; height: 100px;"><br>
       <b>PM</b><br>
       <a href="https://github.com/seopgyu">김규섭</a>
     </td>
     <td align="center">
-      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <img src="https://github.com/mr6208.png" style="width: 100px; height: 100px;"><br>
       <b>BackEnd</b><br>
       <a href="https://github.com/mr6208">정우혁</a>
     </td>
     <td align="center">
-      <img src="https://github.com/Chuseok22.png" width="120px"><br>
+      <img src="https://github.com/Chuseok22.png" style="width: 100px; height: 100px;"><br>
       <b>BackEnd</b><br>
       <a href="https://github.com/Chuseok22">백지훈</a>
     </td>
     <td align="center">
-      <img src="https://github.com/Yooonjeong.png" width="120px"><br>
+      <img src="https://github.com/Yooonjeong.png" style="width: 100px; height: 100px;"><br>
       <b>BackEnd</b><br>
       <a href="https://github.com/Yooonjeong">장윤정</a>
     </td>
     <td align="center">
-      <img src="https://github.com/imironjin.png" width="120px"><br>
+      <img src="https://github.com/imironjin.png" style="width: 100px; height: 100px;"><br>
       <b>FrontEnd</b><br>
       <a href="https://github.com/imironjin">임철진</a>
     </td>
     <td align="center">
-      <img src="https://github.com/heesu52.png" width="120px"><br>
+      <img src="https://github.com/heesu52.png" style="width: 100px; height: 100px;"><br>
       <b>FrontEnd</b><br>
       <a href="https://github.com/heesu52">장희수</a>
     </td>
     <td align="center">
-      <img src="https://github.com/76Dosu.png" width="120px"><br>
+      <img src="https://github.com/76Dosu.png" style="width: 100px; height: 100px;"><br>
       <b>Design</b><br>
       <a href="https://github.com/76Dosu">김희찬</a>
     </td>
