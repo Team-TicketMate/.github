@@ -132,24 +132,29 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
       <a href="https://github.com/mr6208">정우혁</a>
     </td>
     <td align="center">
-      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <img src="https://github.com/Chuseok22.png" width="120px"><br>
       <b>BackEnd</b><br>
-      <a href="https://github.com/mr6208">정우혁</a>
+      <a href="https://github.com/Chuseok22">백지훈</a>
     </td>
     <td align="center">
-      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <img src="https://github.com/Yooonjeong.png" width="120px"><br>
       <b>BackEnd</b><br>
-      <a href="https://github.com/mr6208">정우혁</a>
+      <a href="https://github.com/Yooonjeong">장윤정</a>
     </td>
     <td align="center">
-      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <img src="https://github.com/imironjin.png" width="120px"><br>
       <b>BackEnd</b><br>
-      <a href="https://github.com/mr6208">정우혁</a>
+      <a href="https://github.com/imironjin">임철진</a>
     </td>
     <td align="center">
-      <img src="https://github.com/mr6208.png" width="120px"><br>
+      <img src="https://github.com/heesu52.png" width="120px"><br>
       <b>BackEnd</b><br>
-      <a href="https://github.com/mr6208">정우혁</a>
+      <a href="https://github.com/heesu52">장희수</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/76Dosu.png" width="120px"><br>
+      <b>BackEnd</b><br>
+      <a href="https://github.com/76Dosu">김희찬</a>
     </td>
   </tr>
 </table>
