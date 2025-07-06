@@ -10,6 +10,7 @@
 TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사람들을 대신해 안전하고 합리적으로 티켓팅을 도와주는 플랫폼**입니다.  
 단순한 대리 구매를 넘어, 신뢰 기반의 매칭과 실시간 소통을 통해 모두가 더 쉽게 티켓을 얻을 수 있는 환경을 만들고자 합니다.
 
+<br>
 
 ## ✨ 주요 기능
 
@@ -31,11 +32,13 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 - ✅ **진행 완료 후 별점 평가**  
   티켓팅이 끝나면 대리인에게 별점을 남겨 다음 사용자에게도 도움이 되는 피드백을 제공합니다.  
 
+<br>
 
 ## 🛣️ 로드맵 (Roadmap)
 
 업데이트 예정 🚧  
 
+<br>
 
 ## 🛠 기술 스택
 
@@ -101,15 +104,17 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
 
-
+<br>
 
 ## 🏗 Architecture
 
 ![Architecture Diagram](./architecture.png)  
 
+<br>
 
 ## 👥 팀원 소개
 
+<br>
 
 
 
