@@ -1,4 +1,4 @@
-# 🎟️ TicketMate
+# 🎟️ TicketMate  
 
 
 ## 📌 프로젝트 소개
@@ -7,7 +7,7 @@
 요즘 콘서트나 공연 티켓을 구하기란 매우 어렵고, 손이 느리거나 디지털 환경에 익숙하지 않은 분들은 더욱 불리한 상황에 놓이곤 합니다.
 
 TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사람들을 대신해 안전하고 합리적으로 티켓팅을 도와주는 플랫폼**입니다.  
-단순한 대리 구매를 넘어, 신뢰 기반의 매칭과 실시간 소통을 통해 모두가 더 쉽게 티켓을 얻을 수 있는 환경을 만들고자 합니다.
+단순한 대리 구매를 넘어, 신뢰 기반의 매칭과 실시간 소통을 통해 모두가 더 쉽게 티켓을 얻을 수 있는 환경을 만들고자 합니다.  
 
 
 ## ✨ 주요 기능
@@ -28,12 +28,12 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
   대리인이 수락하면 바로 채팅이 열려, 공연 정보나 요청 내용을 자유롭게 소통할 수 있습니다.
 
 - ✅ **진행 완료 후 별점 평가**  
-  티켓팅이 끝나면 대리인에게 별점을 남겨 다음 사용자에게도 도움이 되는 피드백을 제공합니다.
+  티켓팅이 끝나면 대리인에게 별점을 남겨 다음 사용자에게도 도움이 되는 피드백을 제공합니다.  
 
 
 ## 🛣️ 로드맵 (Roadmap)
 
-업데이트 예정 🚧
+업데이트 예정 🚧  
 
 
 ## 🛠 기술 스택
@@ -98,13 +98,13 @@ TicketMate는 **티켓팅에 능숙한 사용자들이 어려움을 겪는 사�
 
 ### 🧑‍🤝‍🧑 Collaboration Tools
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)  
 
 
 
 ## 🏗 Architecture
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./architecture.png)  
 
 
 ## 👥 팀원 소개
